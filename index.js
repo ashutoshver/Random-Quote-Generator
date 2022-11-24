@@ -25,8 +25,8 @@ var quotes = [
   },
   {
     quote: "A man who flies from his fear may find that he has only taken a shortcut to meet it.",
-    source: "Sador",
-    citation: "-Children of Húrin"
+    source: "-Sador",
+    citation: ",Children of Húrin"
   },
   {
     quote: "Life's too mysterious to take too serious.",
@@ -43,19 +43,19 @@ var quotes = [
   {
     quote: "You can't go around building a better world for people. Only people can build a better world for people. Otherwise it's just a cage.",
     source: "-Terry Pratchett",
-    citation: "Witches Abroad",
-    year: "1991"
+    citation: ",Witches Abroad",
+    year: ",1991"
   },
   {
     quote: "There isn't a way things should be. There's just what happens, and what we do.",
     source: "-Terry Pratchett",
-    citation: "A Hat Full of Sky"
+    citation: ",A Hat Full of Sky"
   },
   {
     quote: "It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward.",
     source: "-Rocky Balboa",
-    citation: "Rocky",
-    year: "1976"
+    citation: ",Rocky",
+    year: ",1976"
   },
   {
     quote: "More fuck yeah, less fuck that.",
@@ -101,8 +101,8 @@ var quotes = [
   {
     quote: "It does not do to dwell on dreams and forget to live.",
     source: "-Albus Dumbledore",
-    citation: "Harry Potter and the Sorcerer's Stone",
-    year: "1997"
+    citation: ",Harry Potter and the Sorcerer's Stone",
+    year: ",1997"
   },
   {
     quote: "Don't sweat the petty things and don't pet the sweaty things.",
@@ -123,7 +123,7 @@ var quotes = [
   {
     quote: "It's supposed to be hard. If it were easy, everyone would do it.",
     source: "-Jimmy Dugan",
-    citation: "A League of Their Own"
+    citation: ",A League of Their Own"
   },
   {
     quote: "Ask yourself if what you're doing today will get you closer to where you want to be tomorrow.",
@@ -152,8 +152,8 @@ var quotes = [
   {
     quote: "Clear eyes, full hearts, can't lose.",
     source: "-Dillon Panthers",
-    citation: "Friday Night Lights",
-    year: "1990"
+    citation: ",Friday Night Lights",
+    year: ",1990"
   },
   {
     quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
